@@ -41,7 +41,7 @@ const Header = () => {
     >
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
-          <img src="/images/business logo.png" width={115} height={55} alt="logo" />
+          <img src="/images/business-logo.png" width={115} height={55} alt="logo" />
 
         </a>
 
@@ -56,7 +56,7 @@ const Header = () => {
               
               <ul className="flex max-lg:block max-lg:px-12">
                 <img
-                      src="/images/business logo.png"
+                      src="/images/business-logo.png"
                       width={200}
                       height={70}
                       alt="logo"
